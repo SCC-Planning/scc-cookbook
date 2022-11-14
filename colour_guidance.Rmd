@@ -33,7 +33,7 @@ This <span style = "color:#2d6ca2">**blue (#2d6ca2)**</span> is used as the prim
 
 Blue and Orange are colours that are distinct for most common forms of colour blindness/color vision deficiency. However, different types of graphs have vastly different requirements to tell a story, and where the number of categories exceeds three colours the SCC palette is not sufficient.
 
-## No need to reinvent the wheel - use **Viridis**
+## Colourblind friendly palettes - **Viridis**
 
 Therefore, instead of designing our own colour palette, I'd recommend the use of [viridis](https://github.com/sjmgarnier/viridis), for graphs with more than three categories. This package has visually appealing colour palettes, and improve graph readability for readers with **common** forms of color blindness and/or color vision deficiency. Note that for some specific forms, you may have to choose another palette within viridis (for example [seaborn](https://seaborn.pydata.org/tutorial/color_palettes.html), or [turbo](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)).
 
