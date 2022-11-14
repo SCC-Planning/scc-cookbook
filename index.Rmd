@@ -39,3 +39,6 @@ You can install the development version of sccthemes from [GitHub](https://githu
 # install.packages("devtools")
 devtools::install_github("thomaszwagerman/sccthemes")
 ```
+## Work in progress
+
+This cookbook is very much a work in progress. Any feedback, contributions and pull requests in the [github repository](https://github.com/thomaszwagerman/sccthemes) would be greatly appreciated!
